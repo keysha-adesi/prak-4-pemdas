@@ -1,0 +1,1 @@
+Function cek bilangan prima
