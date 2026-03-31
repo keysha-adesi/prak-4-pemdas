@@ -1,1 +1,1 @@
-Function cek bilangan prima
+isFibonacci
